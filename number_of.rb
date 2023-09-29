@@ -15,4 +15,3 @@ pp string
 puts "Number of letters in the string is: #{letter}\n"
 puts "Number of spaces in the string is: #{space}\n"
 puts "Number of digits in the string is: #{number}"
-
